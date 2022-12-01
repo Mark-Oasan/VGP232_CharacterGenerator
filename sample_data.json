@@ -1,0 +1,7 @@
+{
+	"Type": "Gender",
+	"Element": "Combo",
+	"ItemSource": ["Male", "Female"],
+	
+
+}

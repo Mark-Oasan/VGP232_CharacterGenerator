@@ -1,0 +1,51 @@
+﻿<Window x:Class="CharacterGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CharacterGenerator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="728" Width="800">
+    <Grid>
+        <ComboBox x:Name="Cb_Gender" HorizontalAlignment="Left" Margin="137,60,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy" HorizontalAlignment="Left" Margin="302,60,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy1" HorizontalAlignment="Left" Margin="448,60,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy2" HorizontalAlignment="Left" Margin="602,60,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy3" HorizontalAlignment="Left" Margin="137,119,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy4" HorizontalAlignment="Left" Margin="302,119,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy5" HorizontalAlignment="Left" Margin="448,125,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.498,0.656"/>
+        <ComboBox x:Name="Cb_Gender_Copy6" HorizontalAlignment="Left" Margin="602,125,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy7" HorizontalAlignment="Left" Margin="137,179,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy8" HorizontalAlignment="Left" Margin="302,179,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy9" HorizontalAlignment="Left" Margin="448,179,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy10" HorizontalAlignment="Left" Margin="602,179,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy11" HorizontalAlignment="Left" Margin="137,233,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy12" HorizontalAlignment="Left" Margin="302,233,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy13" HorizontalAlignment="Left" Margin="448,233,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy14" HorizontalAlignment="Left" Margin="602,239,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy15" HorizontalAlignment="Left" Margin="137,340,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy16" HorizontalAlignment="Left" Margin="137,387,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy17" HorizontalAlignment="Left" Margin="280,340,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy18" HorizontalAlignment="Left" Margin="280,387,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy19" HorizontalAlignment="Left" Margin="425,340,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy20" HorizontalAlignment="Left" Margin="425,387,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy21" HorizontalAlignment="Left" Margin="578,340,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy22" HorizontalAlignment="Left" Margin="578,387,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy23" HorizontalAlignment="Left" Margin="137,447,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy24" HorizontalAlignment="Left" Margin="137,494,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy25" HorizontalAlignment="Left" Margin="280,447,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy26" HorizontalAlignment="Left" Margin="280,494,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy27" HorizontalAlignment="Left" Margin="425,447,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy28" HorizontalAlignment="Left" Margin="425,494,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy29" HorizontalAlignment="Left" Margin="578,447,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cb_Gender_Copy30" HorizontalAlignment="Left" Margin="578,494,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="52" Margin="10,527,0,0" VerticalAlignment="Top" Width="118"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="59" Margin="10,603,0,0" VerticalAlignment="Top" Width="118"/>
+        <Image HorizontalAlignment="Left" Height="191" Margin="10,10,0,0" VerticalAlignment="Top" Width="122"/>
+        <Image HorizontalAlignment="Left" Height="176" Margin="10,233,0,0" VerticalAlignment="Top" Width="122"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="651,647,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="28" Margin="137,27,0,0" VerticalAlignment="Top" Width="99"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="28" Margin="301,23,0,0" VerticalAlignment="Top" Width="99"/>
+
+    </Grid>
+</Window>
